@@ -140,7 +140,7 @@ Une structure en 4 actes japonaise adaptée avec un embranchement narratif basé
 | # | Beat | Description |
 |---|------|-------------|
 | 11a | **Seul dans le Noir** | Progression sans assistance |
-| 12a | **Rencontre des Androïdes** | Ennemis équipés - ce que tu aurais pu devenir |
+| 12a | **Rencontre des Androïdes** | Ennemis ressemblant à des androides (légèrement similaire aux items du joueurs |
 | 13a | **Combat Acharné** | Chemin vers le Noyau à la force du skill |
 | 14a | **Le Faux Androïde** | Boss équipé + petit robot à côté |
 | 15a | **Victoire Brutale** | Combat difficile gagné |
