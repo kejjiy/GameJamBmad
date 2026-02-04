@@ -200,7 +200,7 @@ Le joueur commence "Nu".
 - Recul léger sur l'ennemi (Knockback).
 
 **Ranged (Unlock - Robot):**
-- **Tir Laser/Projectile:** Le robot tire à distance. Supprime le risque du corps-à-corps.
+- **Tir Laser/Projectile:** Le joueur peut tirer à distance grâce à un équipement fourni par le robot. Supprime le risque du corps-à-corps.
 - **Conséquence :** Utiliser le tir augmente la corruption plus vite que la mêlée.
 
 **Enemy Behavior:**
