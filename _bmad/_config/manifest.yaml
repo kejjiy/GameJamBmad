@@ -1,0 +1,28 @@
+installation:
+  version: 6.0.0-Beta.5
+  installDate: 2026-02-03T21:45:55.719Z
+  lastUpdated: 2026-02-03T21:45:55.719Z
+modules:
+  - name: core
+    version: 6.0.0-Beta.5
+    installDate: 2026-02-03T21:45:51.649Z
+    lastUpdated: 2026-02-03T21:45:51.649Z
+    source: built-in
+    npmPackage: null
+    repoUrl: null
+  - name: gds
+    version: 0.1.5
+    installDate: 2026-02-03T21:45:46.543Z
+    lastUpdated: 2026-02-03T21:45:53.743Z
+    source: external
+    npmPackage: bmad-game-dev-studio
+    repoUrl: https://github.com/bmad-code-org/bmad-module-game-dev-studio.git
+  - name: cis
+    version: 0.1.4
+    installDate: 2026-02-03T21:45:51.281Z
+    lastUpdated: 2026-02-03T21:45:55.719Z
+    source: external
+    npmPackage: bmad-creative-intelligence-suite
+    repoUrl: https://github.com/bmad-code-org/bmad-module-creative-intelligence-suite
+ides:
+  - antigravity
